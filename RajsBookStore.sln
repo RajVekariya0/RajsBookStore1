@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32802.440
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RajsBookStore", "RajsBookStore.csproj", "{ADEB3FF2-D7C5-4BF3-862F-22FF2A06BFBD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ADEB3FF2-D7C5-4BF3-862F-22FF2A06BFBD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ADEB3FF2-D7C5-4BF3-862F-22FF2A06BFBD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ADEB3FF2-D7C5-4BF3-862F-22FF2A06BFBD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ADEB3FF2-D7C5-4BF3-862F-22FF2A06BFBD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {58DED3BF-EE66-4970-AB88-AFF1FF1DAE29}
+	EndGlobalSection
+EndGlobal
